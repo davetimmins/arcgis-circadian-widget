@@ -22,6 +22,6 @@ Get it from here or via npm `npm install arcgis-circadian-widget --save`
 
 Download / clone this repository then run `npm install` > `npm start`
 
-![example](https://github.com/davetimmins/arcgis-circadian-widget/circadian.gif)
+![example](https://raw.githubusercontent.com/davetimmins/arcgis-circadian-widget/master/circadian.gif)
 
 
