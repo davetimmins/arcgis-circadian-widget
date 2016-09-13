@@ -1,6 +1,6 @@
 {
   "name": "arcgis-circadian-widget",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An ArcGIS JS V4 widget that changes the map tint based on the time of day.",
   "files": ["src"],
   "main": "dojoConfig.js",

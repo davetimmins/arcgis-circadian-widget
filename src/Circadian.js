@@ -44,13 +44,13 @@ function (
 
       // check the tint every minute
       // TODO : could be smarter here and just check on the hour by calculating minutes left and using setTimeout
-      _timer = setInterval(this._tint, 1000 * 6);
+      _timer = setInterval(this._tint, 1000 * 60);
     },
 
     destroy: function () {
 
-      clearTimeout(_timer);
-      _timer = null;
+      clearTimeout(this._timer);
+      this._timer = null;
     },
 
     _tint: function () {
