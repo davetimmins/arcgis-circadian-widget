@@ -1,0 +1,39 @@
+{
+  "name": "arcgis-circadian-widget",
+  "version": "0.1.0",
+  "description": "An ArcGIS JS V4 widget that changes the map tint based on the time of day.",
+  "files": ["src"],
+  "main": "dojoConfig.js",
+  "author": "Dave Timmins <dwtimmins@outlook.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davetimmins/arcgis-circadian-widget"
+  },
+  "keywords": [
+    "Colour",
+    "Color",
+    "circadian",
+    "tint",
+    "ArcGIS",
+    "Widget",
+    "Esri",
+    "dojo"
+  ],
+  "bugs": {
+    "url": "https://github.com/davetimmins/arcgis-circadian-widget/issues"
+  },
+  "homepage": "http://davetimmins.com/arcgis-circadian-widget/",
+  "local-web-server": {
+    "port": 8103
+  },
+  "scripts": {
+    "start": "ws"
+  },
+  "devDependencies": {    
+    "local-web-server": "^1.2.6"
+  },
+  "dependencies": {
+    
+  }
+}

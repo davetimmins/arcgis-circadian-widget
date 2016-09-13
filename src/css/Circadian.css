@@ -1,0 +1,110 @@
+.circadian-tint:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    pointer-events: none;
+}
+
+.tint-24:after {
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.tint-0:after {
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.tint-1:after {
+    background: rgba(0, 0, 0, 0.45);
+}
+
+.tint-2:after {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.tint-3:after {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.tint-4:after {
+    background: rgba(0, 0, 0, 0.45);
+}
+
+.tint-5:after {
+    background: rgba(66, 66, 66, 0.4);
+}
+
+.tint-6:after {
+    background: rgba(140, 100, 66, 0.3);
+}
+
+.tint-7:after {
+    background: rgba(255, 140, 40, 0.2);
+}
+
+.tint-8:after {
+    background: rgba(150, 190, 220, 0.15);
+}
+
+.tint-9:after {
+    background: rgba(150, 255, 255, 0.15);
+}
+
+.tint-10:after {
+    background: rgba(0, 222, 222, 0.1);
+}
+
+.tint-11:after {
+    background: rgba(100, 222, 222, 0.2);
+}
+
+.tint-12:after {
+    background: rgba(180, 255, 255, 0.2);
+}
+
+.tint-13:after {
+    background: rgba(220, 255, 255, 0.2);
+}
+
+.tint-14:after {
+    background: rgba(255, 255, 255, 0.25);
+}
+
+.tint-15:after {
+    background: rgba(255, 255, 255, 0.25);
+}
+
+.tint-16:after {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.tint-17:after {
+    background: rgba(255, 200, 140, 0.2);
+}
+
+.tint-18:after {
+    background: rgba(180, 120, 200, 0.2);
+}
+
+.tint-19:after {
+    background: rgba(125, 85, 255, 0.2);
+}
+
+.tint-20:after {
+    background: rgba(0, 20, 255, 0.2);
+}
+
+.tint-21:after {
+    background: rgba(0, 0, 150, 0.25);
+}
+
+.tint-22:after {
+    background: rgba(0, 0, 60, 0.25);
+}
+
+.tint-23:after {
+    background: rgba(0, 0, 0, 0.3);
+}
