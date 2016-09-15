@@ -51,6 +51,13 @@ function (
 
       clearTimeout(this._timer);
       this._timer = null;
+
+      domClass.remove(this._node, "circadian-tint");
+
+      if (this._previousClass) {
+
+        domClass.remove(this._node, this._previousClass);
+      }
     },
 
     _tint: function () {
